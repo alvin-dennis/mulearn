@@ -11,7 +11,7 @@
         "lint": "eslint --max-warnings=0 src"
     },
     "dependencies": {
-        "@aws-sdk/client-s3": "^3.744.0",
+        "@aws-sdk/client-s3": "^3.1027.0",
         "@chakra-ui/react": "^2.6.1",
         "@emotion/react": "^11.10.6",
         "@emotion/styled": "^11.10.6",
